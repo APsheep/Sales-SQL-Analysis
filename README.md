@@ -1,5 +1,5 @@
 # Sales-SQL-Analysis
-
+Dataset:https://www.kaggle.com/datasets/abdullah0a/retail-sales-data-with-seasonal-trends-and-marketing/data
 # Overview
 This project showcases SQL and data analysis skills using a retail sales dataset containing transactional data for a subset of months in 2020. The goal is to simulate real-world business analysis by performing data cleaning, writing analytical SQL queries, and creating visualizations in Jupyter Notebook using SQLite.
 
